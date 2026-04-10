@@ -1,3 +1,4 @@
+
 <div align="center">
   <h1>Salut, moi c’est Abouljid 👋</h1>
   <p><strong>Développeur Full Stack & Mobile | Génie Informatique</strong></p>
@@ -12,11 +13,11 @@
 ---
 
 ### 👤 À propos de moi
-[cite_start]Développeur **Full Stack & Mobile** rigoureux et adaptable[cite: 3], [cite_start]passionné par la conception de solutions numériques innovantes[cite: 4]. [cite_start]Ma démarche repose sur une forte capacité d'analyse et une résolution méthodique de problèmes techniques complexes[cite: 5].
+Développeur **Full Stack & Mobile** rigoureux et adaptable[cite: 3], passionné par la conception de solutions numériques innovantes[cite: 4]. Ma démarche repose sur une forte capacité d'analyse et une résolution méthodique de problèmes techniques complexes[cite: 5].
 
-- [cite_start]🔭 **Actuellement :** Développeur Freelance, spécialisé dans la création de plateformes sur mesure[cite: 32].
-- [cite_start]🎯 **Objectif 2026 :** Perfectionner mes compétences en architecture logicielle et intégration de l'IA[cite: 57].
-- [cite_start]🌍 **Localisation :** Tiznit - Agadir, Maroc[cite: 7].
+- 🔭 **Actuellement :** Développeur Freelance, spécialisé dans la création de plateformes sur mesure[cite: 32].
+- 🎯 **Objectif 2026 :** Perfectionner mes compétences en architecture logicielle et intégration de l'IA[cite: 57].
+- 🌍 **Localisation :** Tiznit - Agadir, Maroc[cite: 7].
 
 ---
 
@@ -24,18 +25,18 @@
 
 | Catégorie | Technologies |
 | :--- | :--- |
-| **Langages** | [cite_start]PHP, JavaScript, Python, Java, SQL, NoSQL, VBA [cite: 60] |
-| **Frameworks** | [cite_start]Laravel, React, Next.js, FilamentPHP, Node.js, Tailwind CSS [cite: 59] |
-| **Bases de données** | [cite_start]MySQL, MongoDB, Oracle [cite: 57] |
-| **Outils & DevOps** | [cite_start]Docker, Git/GitHub, Jira, Trello [cite: 60] |
+| **Langages** | PHP, JavaScript, Python, Java, SQL, NoSQL, VBA [cite: 60] |
+| **Frameworks** | Laravel, React, Next.js, FilamentPHP, Node.js, Tailwind CSS [cite: 59] |
+| **Bases de données** | MySQL, MongoDB, Oracle [cite: 57] |
+| **Outils & DevOps** | Docker, Git/GitHub, Jira, Trello [cite: 60] |
 
 ---
 
 ### 🚀 Projets Phares
-- [cite_start]**OffiTrade** : Conception et déploiement d'une plateforme complète (Admin Dashboard & Portail Client)[cite: 33].
-- [cite_start]**Factura** : Développement back-end (Laravel/Filament) et intégration front-end (Next.js)[cite: 42, 43].
-- [cite_start]**ABOURESERVE** : Système de gestion de commandes et réservations en temps réel pour restaurants[cite: 47, 48].
-- [cite_start]**Gestion des Stocks** : Application automatisée pour la gestion des inventaires et du personnel[cite: 50, 52].
+- **OffiTrade** : Conception et déploiement d'une plateforme complète (Admin Dashboard & Portail Client)[cite: 33].
+- **Factura** : Développement back-end (Laravel/Filament) et intégration front-end (Next.js)[cite: 42, 43].
+- **ABOURESERVE** : Système de gestion de commandes et réservations en temps réel pour restaurants[cite: 47, 48].
+- **Gestion des Stocks** : Application automatisée pour la gestion des inventaires et du personnel[cite: 50, 52].
 
 ---
 
@@ -48,5 +49,5 @@
 ---
 
 <p align="center">
-  [cite_start]<em>Certifié en Marketing Numérique par Google (Certification : LT4 GQ3 4LH) [cite: 20, 21]</em>
+  <em>Certifié en Marketing Numérique par Google (Certification : LT4 GQ3 4LH) [cite: 20, 21]</em>
 </p>
