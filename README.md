@@ -13,11 +13,11 @@
 ---
 
 ### 👤 À propos de moi
-Développeur **Full Stack & Mobile** rigoureux et adaptable[cite: 3], passionné par la conception de solutions numériques innovantes[cite: 4]. Ma démarche repose sur une forte capacité d'analyse et une résolution méthodique de problèmes techniques complexes[cite: 5].
+Développeur **Full Stack & Mobile** rigoureux et adaptable, passionné par la conception de solutions numériques innovantes. Ma démarche repose sur une forte capacité d'analyse et une résolution méthodique de problèmes techniques complexes.
 
-- 🔭 **Actuellement :** Développeur Freelance, spécialisé dans la création de plateformes sur mesure[cite: 32].
-- 🎯 **Objectif 2026 :** Perfectionner mes compétences en architecture logicielle et intégration de l'IA[cite: 57].
-- 🌍 **Localisation :** Tiznit - Agadir, Maroc[cite: 7].
+- 🔭 **Actuellement :** Développeur Freelance, spécialisé dans la création de plateformes sur mesure.
+- 🎯 **Objectif 2026 :** Perfectionner mes compétences en architecture logicielle et intégration de l'IA.
+- 🌍 **Localisation :** Tiznit - Agadir, Maroc.
 
 ---
 
@@ -25,18 +25,18 @@ Développeur **Full Stack & Mobile** rigoureux et adaptable[cite: 3], passionné
 
 | Catégorie | Technologies |
 | :--- | :--- |
-| **Langages** | PHP, JavaScript, Python, Java, SQL, NoSQL, VBA [cite: 60] |
-| **Frameworks** | Laravel, React, Next.js, FilamentPHP, Node.js, Tailwind CSS [cite: 59] |
-| **Bases de données** | MySQL, MongoDB, Oracle [cite: 57] |
-| **Outils & DevOps** | Docker, Git/GitHub, Jira, Trello [cite: 60] |
+| **Langages** | PHP, JavaScript, Python, Java, SQL, NoSQL, VBA  |
+| **Frameworks** | Laravel, React, Next.js, FilamentPHP, Node.js, Tailwind CSS  |
+| **Bases de données** | MySQL, MongoDB, Oracle  |
+| **Outils & DevOps** | Docker, Git/GitHub, Jira, Trello  |
 
 ---
 
-### 🚀 Projets Phares
-- **OffiTrade** : Conception et déploiement d'une plateforme complète (Admin Dashboard & Portail Client)[cite: 33].
-- **Factura** : Développement back-end (Laravel/Filament) et intégration front-end (Next.js)[cite: 42, 43].
-- **ABOURESERVE** : Système de gestion de commandes et réservations en temps réel pour restaurants[cite: 47, 48].
-- **Gestion des Stocks** : Application automatisée pour la gestion des inventaires et du personnel[cite: 50, 52].
+### 🚀 Projets Phare
+- **OffiTrade** : Conception et déploiement d'une plateforme complète (Admin Dashboard & Portail Client).
+- **Factura** : Développement back-end (Laravel/Filament) et intégration front-end (Next.js).
+- **ABOURESERVE** : Système de gestion de commandes et réservations en temps réel pour restaurants.
+- **Gestion des Stocks** : Application automatisée pour la gestion des inventaires et du personnel.
 
 ---
 
@@ -49,5 +49,5 @@ Développeur **Full Stack & Mobile** rigoureux et adaptable[cite: 3], passionné
 ---
 
 <p align="center">
-  <em>Certifié en Marketing Numérique par Google (Certification : LT4 GQ3 4LH) [cite: 20, 21]</em>
+  <em>Certifié en Marketing Numérique par Google (Certification : LT4 GQ3 4LH)</em>
 </p>
