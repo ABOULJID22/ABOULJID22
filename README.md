@@ -53,9 +53,10 @@ A rigorous and adaptable **Full-Stack & Mobile Developer** passionate about buil
 
 ### 📈 GitHub Ecosystem
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ABOULJID22&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  
+
+  <img src="https://streak-stats.demolab.com?user=ABOULJID22&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
 
 
