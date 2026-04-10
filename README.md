@@ -57,9 +57,7 @@ A rigorous and adaptable **Full-Stack & Mobile Developer** passionate about buil
   <img src="https://streak-stats.demolab.com?user=ABOULJID22&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABOULJID22&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</p>
+
 
 ---
 
