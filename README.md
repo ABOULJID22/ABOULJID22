@@ -20,7 +20,7 @@ A rigorous and adaptable **Full-Stack & Mobile Developer** passionate about buil
 - 🔭 **Currently:** Full-Stack Freelancer focused on custom enterprise platforms.
 - 🎯 **2026 Goal:** Advancing in software architecture and AI integration.
 - 🌍 **Location:** Tiznit - Agadir, Morocco
-- 💬 **Languages:** Native Tamazight, Fluent Arabic, Intermediate French & English 28, 
+
 
 ---
 
