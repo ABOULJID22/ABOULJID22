@@ -1,5 +1,5 @@
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ABOULJID22&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
   
   <h1>Hi, I'm Abouljid Mohamed 👋</h1>
   <p><strong>Full-Stack & Mobile Developer | IT Engineer | Database Management</strong></p>
@@ -15,12 +15,12 @@
 ---
 
 ### 👤 About Me
-[cite_start]A rigorous and adaptable **Full-Stack & Mobile Developer** [cite: 3] [cite_start]passionate about building innovative digital solutions[cite: 4]. [cite_start]I specialize in complex technical problem-solving and rapid learning[cite: 5].
+A rigorous and adaptable **Full-Stack & Mobile Developer** passionate about building innovative digital solutions I specialize in complex technical problem-solving and rapid learning
 
-- [cite_start]🔭 **Currently:** Full-Stack Freelancer focused on custom enterprise platforms[cite: 32].
-- [cite_start]🎯 **2026 Goal:** Advancing in software architecture and AI integration[cite: 57].
-- [cite_start]🌍 **Location:** Tiznit - Agadir, Morocco[cite: 6].
-- [cite_start]💬 **Languages:** Native Tamazight, Fluent Arabic, Intermediate French & English[cite: 26, 28, 30].
+- 🔭 **Currently:** Full-Stack Freelancer focused on custom enterprise platforms.
+- 🎯 **2026 Goal:** Advancing in software architecture and AI integration.
+- 🌍 **Location:** Tiznit - Agadir, Morocco
+- 💬 **Languages:** Native Tamazight, Fluent Arabic, Intermediate French & English 28, 
 
 ---
 
@@ -28,26 +28,26 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | [cite_start]PHP, JavaScript, Python, Java, SQL, NoSQL, VBA [cite: 60] |
-| **Frameworks** | [cite_start]Laravel, React, Next.js, FilamentPHP, Node.js, Tailwind CSS [cite: 59] |
-| **Databases** | [cite_start]MySQL, MongoDB, Oracle [cite: 57] |
-| **DevOps & Tools** | [cite_start]Docker, Git/GitHub, Jira, Trello, Arduino IDE [cite: 58, 60] |
+| **Languages** | PHP, JavaScript, Python, Java, SQL, NoSQL, VBA  |
+| **Frameworks** | Laravel, React, Next.js, FilamentPHP, Node.js, Tailwind CSS  |
+| **Databases** | MySQL, MongoDB, Oracle  |
+| **DevOps & Tools** | Docker, Git/GitHub, Jira, Trello, Arduino IDE  60] |
 
 ---
 
 ### 🚀 Key Projects
-- [cite_start]**OffiTrade** — Full-scale deployment of a pharmaceutical platform with custom Admin/Client dashboards[cite: 32, 33].
-- [cite_start]**Factura** — Back-end development with Laravel/Filament and front-end integration via Next.js[cite: 42, 43].
-- [cite_start]**ABOURESERVE** — Real-time restaurant ordering and reservation system[cite: 47, 48].
-- [cite_start]**Inventory Management** — Automated stock and personnel management application[cite: 50, 51].
+- **OffiTrade** — Full-scale deployment of a pharmaceutical platform with custom Admin/Client dashboards 
+- **Factura** — Back-end development with Laravel/Filament and front-end integration via Next.js 
+- **ABOURESERVE** — Real-time restaurant ordering and reservation system 
+- **Inventory Management** — Automated stock and personnel management application 
 
 ---
 
 ### 🧠 Soft Skills & Expertise
-- [cite_start]**Analytical Thinking:** Strong capacity for synthesis and effective solution design[cite: 54].
-- [cite_start]**Teamwork:** Proven ability to collaborate effectively in agile environments[cite: 55].
-- [cite_start]**AI Mastery:** Proficiency in utilizing Artificial Intelligence techniques for development[cite: 57].
-- [cite_start]**Digital Marketing:** Certified by Google for digital marketing strategies[cite: 20, 21].
+- **Analytical Thinking:** Strong capacity for synthesis and effective solution design.
+- **Teamwork:** Proven ability to collaborate effectively in agile environments.
+- **AI Mastery:** Proficiency in utilizing Artificial Intelligence techniques for development.
+- **Digital Marketing:** Certified by Google for digital marketing strategies 
 
 ---
 
@@ -63,7 +63,3 @@
 
 ---
 
-<p align="center">
-  <em>"Turning complex code into simple, elegant solutions."</em> <br>
-  [cite_start]<strong>Google Certification ID: LT4 GQ3 4LH</strong> [cite: 21]
-</p>
