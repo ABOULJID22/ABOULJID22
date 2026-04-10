@@ -48,6 +48,4 @@ Développeur **Full Stack & Mobile** rigoureux et adaptable, passionné par la c
 
 ---
 
-<p align="center">
-  <em>Certifié en Marketing Numérique par Google (Certification : LT4 GQ3 4LH)</em>
-</p>
+
